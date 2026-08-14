@@ -193,7 +193,7 @@ Setup Instructions
 1. Clone the Repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Habideen1/custom_user_auth.git
 
 
 2. Navigate into the Project
