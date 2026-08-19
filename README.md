@@ -131,9 +131,9 @@ Development Roadmap
 * [x] Custom User Manager
 * [x] Registration Serializer
 * [x] Registration View
-* [ ] Registration URL Configuration
-* [ ] Registration API Testing (Postman)
-* [ ] Email Verification
+* [x] Registration URL Configuration
+* [x] Registration API Testing (Postman)
+* [x] Email Verification
 * [ ] JWT Authentication
 * [ ] Login API
 * [ ] Logout API
